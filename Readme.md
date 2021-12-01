@@ -1,5 +1,7 @@
 # Ruby Sidekiq
 
+![terminal](print.jpeg)
+
 ## Redis is needed
 
 Linux installation:
